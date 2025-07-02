@@ -17,7 +17,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Visualization: Tableau 
 
 👋🏻 Connect with Me
-- Linkedin
+- [Linkedin](www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
 
 
 <!--
