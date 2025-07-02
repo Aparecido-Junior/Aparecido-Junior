@@ -9,7 +9,7 @@ Hi, I am Aparecido Junior. Spiring data analyst, currently studyging master degr
 - Data Vizualization and story tellleing usging Tableau
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
 
 ## 🛠️ Tools
 - Language: SQL
@@ -49,4 +49,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true" />
 </picture>
 
+dois links uteis
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+https://www.youtube.com/watch?v=TsaLQAetPLU
 -->
