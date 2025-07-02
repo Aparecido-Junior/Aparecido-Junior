@@ -17,7 +17,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Apare
 - **Visualization:** Tableau
 - **Data Analysis:** Excel
 
-👋🏻 Connect with Me
+##👋🏻 Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
 
 
