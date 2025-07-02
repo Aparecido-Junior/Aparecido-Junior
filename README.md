@@ -12,9 +12,10 @@ Hi, I am Aparecido Junior. Spiring data analyst, currently studyging master degr
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
 
 ## 🛠️ Tools
-- Language: SQL
-- Database: MySQL
-- Visualization: Tableau 
+- **Language:** SQL
+- **Database:** MySQL
+- **Visualization:** Tableau
+- **Data Analysis:** Excel
 
 👋🏻 Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
