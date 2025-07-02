@@ -1,6 +1,6 @@
 ## Introducing Myself
 
-
+> ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
 
 Hi, I am Aparecido Junior. Spiring data analyst, currently studyging master degree in IT at Kaplan Business Sydeney.
 
