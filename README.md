@@ -1,3 +1,23 @@
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_cido) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/aparecido-jose-dias-junior-1aa906343) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/me/stories/public) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2Gf6c7fiT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outloook.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aparecido-Junior&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
 ### Hi, I am Aparecido 👋🏿👨🏾‍🏫🧑🏾‍💻
 
 > ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
@@ -9,7 +29,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Apare
 
 ## 👋🏻 Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
-
+--!>
 
 
 <!--
