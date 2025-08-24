@@ -2,7 +2,7 @@
 
 > ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
 
-“I am currently a Master’s student at Kaplan Institute in Sydney. With a data-oriented curriculum, I am putting into practice what I have been studying for months: data collection, cleaning, exploration, transformation, and sharing — areas I am truly passionate about. In this portfolio, I share not only my academic work but also personal projects that reflect my journey into the data world.
+I am currently a Master’s student at Kaplan Institute in Sydney. With a data-oriented curriculum, I am putting into practice what I have been studying for months: data collection, cleaning, exploration, transformation, and sharing — areas I am truly passionate about. In this portfolio, I share not only my academic work but also personal projects that reflect my journey into the data world.
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
