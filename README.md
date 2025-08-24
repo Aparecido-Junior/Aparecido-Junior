@@ -2,20 +2,10 @@
 
 > ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
 
-Hi, I am Aparecido Junior. Spiring data analyst, currently studyging master degree in IT at Kaplan Business Sydeney.
-
-- Data cleaning, Pivot table and reports using Excel.
-- Querying data using SQL.
-- Data Vizualization and story tellleing usging Tableau
+“I am currently a Master’s student at Kaplan Institute in Sydney. With a data-oriented curriculum, I am putting into practice what I have been studying for months: data collection, cleaning, exploration, transformation, and sharing — areas I am truly passionate about. In this portfolio, I share not only my academic work but also personal projects that reflect my journey into the data world.
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
-
-## 🛠️ Tools
-- **Language:** SQL
-- **Database:** MySQL
-- **Visualization:** Tableau
-- **Data Analysis:** Excel
 
 ## 👋🏻 Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
