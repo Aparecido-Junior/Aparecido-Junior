@@ -1,24 +1,26 @@
 ## 👋🏿 Hi, I am Aparecido 👨🏿‍💻
 Currently I am Master student at Kaplan institute in Sydney. With a data oriented curriculum I will be able to put in practice what I’ve been studying for months, data collection, cleaning, exploration, transformation and sharing which are things that I am really passionate about. In this portfolio I will not only share my academic work but also personal exploration.
 
-## 📚 Projects
+#### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_cido) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparecidojdj) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outloook.com) 
 
-## 💻 Tech Stack:
+#### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![Aparecido-Junior's Stats](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false)
+
+
 ![Aparecido-Junior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aparecido-Junior&theme=gotham&hide_border=false)
 
 
