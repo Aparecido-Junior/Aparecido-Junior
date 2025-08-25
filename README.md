@@ -19,7 +19,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Apare
 
 ### GitHub Stats:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aparecido-Junior&theme=gotham&hide_border=false" />
+
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
