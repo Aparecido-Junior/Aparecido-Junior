@@ -16,13 +16,14 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Apare
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ## 📊 GitHub Stats:
 ![Aparecido-Junior's Stats](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false)
+![Aparecido-Junior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aparecido-Junior&theme=gotham&hide_border=false)
+![Aparecido-Junior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-![Aparecido-Junior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aparecido-Junior&theme=gotham&hide_border=false)
-![Aparecido-Junior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
