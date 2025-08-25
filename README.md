@@ -17,10 +17,12 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Apare
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![Aparecido-Junior's Stats](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![Aparecido-Junior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aparecido-Junior&theme=gotham&hide_border=false)
+![Aparecido-Junior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -38,6 +40,7 @@ I am currently a Master’s student at Kaplan Institute in Sydney. With a data-o
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aparecido-Junior&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
