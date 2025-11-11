@@ -2,14 +2,8 @@
 Currently I am Master student at Kaplan institute in Sydney. With a data oriented curriculum I will be able to put in practice what I’ve been studying for months, data collection, cleaning, exploration, transformation and sharing which are things that I am really passionate about. In this portfolio I will not only share my academic work but also personal exploration.
 
 ### Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
+Welcome to my portfolio, where I showcase my [PROJECTS](https://github.com/Aparecido-Junior?tab=repositories).
 
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_cido) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparecidojdj) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outloook.com) 
 
 ### Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -74,6 +68,14 @@ Here are some ideas to get you started:
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true"
+
+    ### Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_cido) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparecidojdj) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outloook.com) 
+
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true" />
