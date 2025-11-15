@@ -5,27 +5,21 @@ Currently I am Master student at Kaplan institute in Sydney. With a data oriente
 Welcome to my portfolio, where I showcase my [PROJECTS](https://github.com/Aparecido-Junior?tab=repositories).
 
 
-### Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### GitHub Stats:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false">
 
 
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 <!--
 ### Hi, I am Aparecido 👋🏿👨🏾‍🏫🧑🏾‍💻
+
+
 
 > ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
 
@@ -84,4 +78,18 @@ Here are some ideas to get you started:
 dois links uteis
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 https://www.youtube.com/watch?v=TsaLQAetPLU
+
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+### Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 -->
