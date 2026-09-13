@@ -36,7 +36,6 @@ SQL, Excel, Tableau, and Python notebooks documenting my ongoing learning are on
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outlook.com)
 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: trying to cook Brazilian dishes since moving to Australia
 
 ---
