@@ -1,95 +1,44 @@
 # 👋🏿 Hi, I am Aparecido 👨🏿‍💻
-Currently I am Master student at Kaplan institute in Sydney. With a data oriented curriculum I will be able to put in practice what I’ve been studying for months, data collection, cleaning, exploration, transformation and sharing which are things that I am really passionate about. In this portfolio I will not only share my academic work but also personal exploration.
 
-### Projects
-Welcome to my portfolio, where I showcase my [PROJECTS](https://github.com/Aparecido-Junior?tab=repositories).
+I'm a Master's student in Data Analytics at Kaplan Business School, Sydney. With a data-oriented curriculum, I'm putting into practice what I've been studying: data collection, cleaning, exploration, transformation, and sharing — areas I'm genuinely passionate about. This profile showcases both my academic coursework and my personal projects as I build toward a career in data.
 
+## 🚀 Featured Project
 
+**[Daily Brazilian Stock Report](https://github.com/Aparecido-Junior/Daily_Brazilian_Stock_Report)** — an end-to-end data pipeline tracking B3 stocks against the Ibovespa: Yahoo Finance ingestion → a hosted Postgres warehouse → a FastAPI serving layer → SQL window-function analytics (returns, moving averages, volatility) → auto-refreshed charts, all scheduled daily on GitHub Actions.
 
+## 📁 More Projects
 
-### GitHub Stats:
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false">
+SQL, Excel, Tableau, and Python notebooks documenting my ongoing learning are on my [repositories page](https://github.com/Aparecido-Junior?tab=repositories).
 
+## 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&count_private=false" alt="Aparecido's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham&hide_border=false" alt="Top languages" />
 
-<!--
-### Hi, I am Aparecido 👋🏿👨🏾‍🏫🧑🏾‍💻
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
+## 🌐 Connect with Me
 
-> ![Image](https://github.com/user-attachments/assets/12b58ba5-40d3-457c-8bba-043c275f48a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/its_cido)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aparecidojdj)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outlook.com)
 
-I am currently a Master’s student at Kaplan Institute in Sydney. With a data-oriented curriculum, I am putting into practice what I have been studying for months: data collection, cleaning, exploration, transformation, and sharing — areas I am truly passionate about. In this portfolio, I share not only my academic work but also personal projects that reflect my journey into the data world.
-
-## 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Aparecido-Junior?tab=repositories).
-
-## 📊 GitHub Stats:
-![Aparecido-Junior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aparecido-Junior&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparecido-Junior&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 👋🏻 Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343)
---!>
-
-
-<!--
-**Aparecido-Junior/Aparecido-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/ His
-= ⚡ Fun fact: Recently trying to cook brazilian dishes since I live in Australia. 
--->
-
-<!--
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true"
-
-    ### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_cido) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparecido-jose-dias-junior-1aa906343) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparecidojdj) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/hXM3BF38a) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparecido.jfilho@outloook.com) 
-
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aparecido-Junior&show_icons=true" />
-</picture>
-
-dois links uteis
-https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
-https://www.youtube.com/watch?v=TsaLQAetPLU
-
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aparecido-Junior&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: trying to cook Brazilian dishes since moving to Australia
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Aparecido-Junior&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
--->
